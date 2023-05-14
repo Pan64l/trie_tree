@@ -1,0 +1,7 @@
+load
+s carmen
+s zebra
+spellcheck zebra
+spellcheck carmen
+exit
+
